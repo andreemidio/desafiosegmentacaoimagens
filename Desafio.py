@@ -7,7 +7,7 @@ import numpy as np
 import cv2
 #importando a imagem
 #
-imagemInicial = cv2.imread("imagens/IMG_20180807_174005423.jpg")
+imagemInicial = cv2.imread("IMG_20180807_174005423.jpg")
 
 #redimensionando a imagem para facilitar a extração dos dados
 imagemInicial =  cv2.resize(imagemInicial,(600,800))
