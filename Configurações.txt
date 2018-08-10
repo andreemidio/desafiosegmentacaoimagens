@@ -1,9 +1,9 @@
 OpenCV =  3.4.1
 Python = 3.6.5
 
-Usei o Jupyter instalado diretamente na máquina e o Pycharm para rodar o programa
+Usei o Jupyter instalado diretamente na mÃ¡quina e o Pycharm para rodar o programa
 
-Usei algumas referências da internet
+Usei algumas referÃªncias da internet
 
 
 Adrian Rosenbrook
@@ -13,3 +13,9 @@ https://www.pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform
 
 Amey Umarekar
 https://github.com/AmeyCaps'https://github.com/AmeyCaps/Document_Scanner/blob/master/scan_doc.py
+
+
+Florian LE BOURDAIS
+http://flothesof.github.io/pages/about.html
+http://flothesof.github.io/removing-background-scikit-image.html
+http://nbviewer.jupyter.org/github/flothesof/posts/blob/master/20160901_RemovingBackgroundFromImage.ipynb
